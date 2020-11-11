@@ -1,7 +1,10 @@
 ### Hi there 👋
 My name is Giovani Garcia, working as a Fullstack Developer for 3 years.
+
 🔭 I’m currently working at Support - Sistemas de Gestão
+
 🌱 I’m currently learning NextJS and Golang
+
 ⚡ Fun fact: People think I'm indian but my grandparents are from Portugal and Spain.
 <!--
 **GamerSenior/GamerSenior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
