@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Giovani Garcia, working as a Fullstack Developer for 3 years.
 
-🔭 I’m currently working at Support - Sistemas de Gestão
+🔭 I’m currently working at Prevision
 
-🌱 I’m currently learning NextJS and Golang
+🌱 I’m currently learning Ruby on Rails
 
 ⚡ Fun fact: People think I'm indian but my grandparents are from Portugal and Spain.
 <!--
