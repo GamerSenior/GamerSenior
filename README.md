@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Giovani Garcia, working as a Fullstack Developer for 3 years.
+My name is Giovani Garcia, working as a Fullstack Developer for 4 years.
 
-🔭 I’m currently working at Prevision
+🔭 I’m currently unemployed.
 
-🌱 I’m currently learning Ruby on Rails
+🌱 I’m currently learning Zig.
 
 ⚡ Fun fact: People think I'm indian but my grandparents are from Portugal and Spain.
 <!--
