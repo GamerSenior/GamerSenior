@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Giovani Garcia, working as a Fullstack Developer for 4 years.
+My name is Giovani Garcia, working as a Fullstack Developer for 5 years.
 
-🔭 I’m currently unemployed.
+🔭 I’m currently looking for work. Contact me: abelgiovani@gmail.com
 
 🌱 I’m currently learning Zig.
 
