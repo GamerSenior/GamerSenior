@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is Giovani Garcia, working as a Fullstack Developer for 5 years.
+My name is Giovani Garcia, 5 years of experience developing Web Applications and integrations.
 
 🔭 I’m currently looking for work. Contact me: abelgiovani@gmail.com
 
-🌱 I’m currently learning Zig.
+🌱 I’m currently learning Ziglang.
 
 ⚡ Fun fact: People think I'm indian but my grandparents are from Portugal and Spain.
 <!--
