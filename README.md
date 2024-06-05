@@ -1,9 +1,10 @@
 ### Hi there 👋
 My name is Giovani Garcia, 5 years of experience developing Web Applications and integrations.
+Most of my experience is with Java, JavaScript and Ruby.
 
-🔭 I’m currently looking for work. Contact me: abelgiovani@gmail.com
+🔭 I’m currently working at Nivells.
 
-🌱 I’m currently learning Ziglang.
+🌱 I’m currently learning Ziglang and Elixir.
 
 ⚡ Fun fact: People think I'm indian but my grandparents are from Portugal and Spain.
 <!--
